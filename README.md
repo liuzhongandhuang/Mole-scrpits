@@ -1,6 +1,7 @@
 # 摩勇脚本
 ## 我自己用按键精灵写的摩尔勇士脚本
 ### 应该是直接点就能下，不行就试试摁ctrl然后点，有什么问题就找qq：1337428227，有空肯定会修或者更新的
+#### 用法一般都是在窗口内摁f10，少数要勾选，有点问题就摁f12然后摁f10重新启动看看
 - [伊影（有对话版本）](https://github.com/liuzhongandhuang/Mole-scrpits/raw/main/%E4%BC%8A%E5%BD%B1%EF%BC%88%E6%9C%89%E5%AF%B9%E8%AF%9D%E7%89%88%E6%9C%AC%EF%BC%89.exe)
 - [只抓萝卜+刷怪](https://github.com/liuzhongandhuang/Mole-scrpits/raw/main/%E5%8F%AA%E6%8A%93%E8%90%9D%E5%8D%9C+%E5%88%B7%E6%80%AA.exe)
 - [启动器（非组队）](https://github.com/liuzhongandhuang/Mole-scrpits/raw/main/%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%88%E9%9D%9E%E7%BB%84%E9%98%9F.exe)
