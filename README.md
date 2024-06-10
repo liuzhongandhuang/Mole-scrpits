@@ -1,0 +1,14 @@
+# 摩勇脚本
+## 我自己用按键精灵写的摩尔勇士脚本
+### 应该是直接点就能下，不行就试试摁ctrl然后点，有什么问题就找qq：1337428227，有空肯定会修或者更新的
+- [有对话伊影](https://github.com/liuzhongandhuang/-/raw/main/%E4%BC%8A%E5%BD%B1%EF%BC%88%E6%9C%89%E5%AF%B9%E8%AF%9D%E7%89%88%E6%9C%AC%EF%BC%89.exe)
+- [只抓萝卜+刷怪](https://github.com/liuzhongandhuang/-/raw/main/%E5%8F%AA%E6%8A%93%E8%90%9D%E5%8D%9C+%E5%88%B7%E6%80%AA.exe)
+- [启动器（非组队）](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%88%E9%9D%9E%E7%BB%84%E9%98%9F.exe)
+- [对话基姆](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E5%AF%B9%E8%AF%9D%E5%9F%BA%E5%A7%86.exe)
+- [打坐](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E6%89%93%E5%9D%90.exe)
+- [换水晶变身卡](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E6%8D%A2%E6%B0%B4%E6%99%B6%E5%8F%98%E8%BA%AB%E5%8D%A1.exe)
+- [斗技场转盘自动](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E6%96%97%E6%8A%80%E5%9C%BA%E8%BD%AC%E7%9B%98%E8%87%AA%E5%8A%A8.exe)
+- [每周vip奖励领取](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E6%AF%8F%E5%91%A8vip%E5%A5%96%E5%8A%B1%E9%A2%86%E5%8F%96.exe)
+- [每日领探索宝石](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E6%AF%8F%E6%97%A5%E9%A2%86%E6%8E%A2%E7%B4%A2%E5%AE%9D%E7%9F%B3(%E6%94%AF%E6%8C%81%E5%A4%9A%E5%8F%B7).exe)
+- [爬塔](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E7%88%AC%E5%A1%94.exe)
+- [碰蛋](https://github.com/liuzhongandhuang/Mole-scripts/raw/main/%E7%A2%B0%E8%9B%8B.exe)
